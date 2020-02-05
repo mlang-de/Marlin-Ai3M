@@ -439,7 +439,7 @@
   //Anycubic i3 Mega Ultrabase (0.9Ω @ 22°C)
   #define DEFAULT_bedKp 251.78
   #define DEFAULT_bedKi 49.57
-  #define DEFAULT_bedKd 319.73
+  #define DEFAULT_bedKd 280.73
 
   //120V 250W silicone heater into 4mm borosilicate (MendelMax 1.5+)
   //from pidautotune
